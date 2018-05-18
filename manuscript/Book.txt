@@ -1,4 +1,4 @@
 frontmatter.txt
 chapter1.txt
-chpater2.txt
+chapter2.txt
 backmatter.txt
