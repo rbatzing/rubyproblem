@@ -1,3 +1,4 @@
+{mainmatter}
 # Chapter 1
 Hello, world! {thaifont}เราชอบเขี่ยนภาษาไทยมากๆ{latinfont} More English text.
 
