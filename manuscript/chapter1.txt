@@ -1,5 +1,6 @@
 {mainmatter}
 
-# Chapter 1
-Hello, world! {thaifont}เราชอบเขี่ยนภาษาไทยมากๆ{latinfont} More English text.
+# Chapter 1<br>Basic Anatomy of a Ruby Solution
+
+Attributes and the methods to interact with them is the heart of object-oriented programming.
 
