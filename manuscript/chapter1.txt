@@ -1,7 +1,6 @@
 {mainmatter}
 
-# Chapter 1  
-Basic Anatomy of a Ruby Solution
+# Chapter 1: Basic Anatomy of a Ruby Solution
 
 Attributes and the methods to interact with them is the heart of object-oriented programming.
 
