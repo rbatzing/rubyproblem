@@ -1,5 +1,5 @@
 # Problem Solving with Ruby
 
-A project to create a textbook to illustrate various problem solving techniques using good design principles and the Ruby programming language.
+Practical examples of problem solving using strategic design principles and the Ruby programming language.
 
-![cover](sunset.jpg)
+![cover](cover.png)
